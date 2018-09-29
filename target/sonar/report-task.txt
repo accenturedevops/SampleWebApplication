@@ -1,0 +1,5 @@
+projectKey=com.javacodegeeks:SampleWebApplication
+serverUrl=http://localhost:9000/sonar
+dashboardUrl=http://localhost:9000/sonar/dashboard/index/com.javacodegeeks:SampleWebApplication
+ceTaskId=AWYmQ9jZeayGhyVxdLU5
+ceTaskUrl=http://localhost:9000/sonar/api/ce/task?id=AWYmQ9jZeayGhyVxdLU5
